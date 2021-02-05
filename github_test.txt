@@ -1,4 +1,5 @@
 test github 23333
 测试global username
 🤺🍎🍺🥛🐂🤡😀⛏📕
-clone 
+clone
+ssh test
